@@ -1,5 +1,6 @@
 # Udacity MWS Stage 2
 ## Sails Server
+
 ```Go to Server sub folder
 cd server
 ```
@@ -12,13 +13,16 @@ cd server
 # npm i sails -g
 ```
 ###### Start the server
+
 ```Start server
 # node server
 ```
 ## Run Restaurant Site
+
 ```Go to Website sub folder
 #cd website
 ```
+
 ```Start a python server
 #python -m SimpleHTTPServer 8000
 ```
